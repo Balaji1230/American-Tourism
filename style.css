@@ -1,0 +1,233 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+}
+
+
+
+
+.video{
+
+background-image: url(./img/main.jpg);
+background-size: cover;
+width: 100%;
+height: 100vh;
+
+
+}
+
+.text1{
+    font-size: 30px;
+    padding-left: 15px;
+    padding-top: 15px;
+    color: #F8F6E3;
+    display: inline-block;
+    margin: 5px;
+}
+.navigation{
+    float: right;
+    padding-right: 20px;
+    
+}
+
+
+li{
+    top: 0;
+    display: inline;
+    padding: 20px;
+    
+   
+    border-width: 3px;
+    
+   
+
+}
+ul li a{
+    color: snow;
+    text-decoration: none;
+    
+    
+    
+}
+ul li  a:hover{
+    color: snow;
+    background-color: brown;
+    padding: 10px;
+    
+  
+}
+
+.text2{
+    padding-top: 250px;
+    padding-bottom: 20px;
+    text-align: center;
+    font-size: 40px;
+    color:black;
+   
+    
+    
+}
+p{
+    padding-top: 250px;
+    padding:10px 20px 10px 20px;
+    text-align: center;
+    font-size: 30px;
+    color:snow;
+   
+    
+}
+
+p a:hover{
+    color: snow;
+    background-color: brown;
+    padding: 10px;
+}
+p a{
+    color: black;
+    
+}
+
+/* CODE FOR PROTFOLIO WEBPAGE*/
+
+
+.division2{
+  
+    width: 100%;
+    height: 500px;
+   /*  background-color:  a#B4D4FF; */
+    display: inline-block;
+    background-repeat: no-repeat;
+}
+
+
+h3{
+    font-size: 20px;
+    float: right;
+}
+
+.image_tag{
+    width: 300px;
+    padding-top: 10px;
+    padding-right: 40px;
+}
+
+/* IMage*/
+
+
+
+.division2{
+
+    
+    background-size: cover;
+    width: 100%;
+    height: 80vh;
+    
+    
+    }
+
+.images{
+    width: 300px;
+    height: 300px;
+    float: left;
+    margin-top: 20px;
+    margin-left: 30px;
+}
+
+
+.demo{
+    /* margin-top: 10px;
+    margin-left: 400px; */
+    padding-top: 100px;
+    padding-right: 10px;
+    text-align: center;
+    font-size: 18px;
+    margin-bottom: 80px;
+}
+
+.history{
+    text-align: center;
+    padding-top: 30px;
+}
+
+
+
+/* PORTION THREE */
+
+.division3{
+    width: 100%;
+    height: 500px;
+}
+.image3{
+
+    background-color:black;
+}
+
+
+
+/* PORTION FOUR */
+
+.text4{
+    width: 100%;
+    height: 400px;
+    background-color: cadetblue;
+}
+
+.bak{
+    background-color: black;
+}
+
+.navigation2{
+
+    text-decoration: none;
+    padding: 80px;
+    display: inline-block;
+
+}
+
+.one, .two, .three, .four, .five{
+    padding: 10px;
+    font-size: 15px;
+}
+.one a, .two a, .three a, .four a, .five a{
+    text-decoration: none;
+    color:black
+}
+.one a:hover, .two a:hover, .three a:hover, .four a:hover, .five a:hover{
+    color: snow;
+    text-decoration: none;
+    font-size: 15px;
+}
+
+
+
+/* NAVIGATION THREE */
+
+.navigations2{
+    display: inline-block;
+    padding-left: 50px;
+}
+
+.navigation3{
+    display: inline-block;
+    display: inline-block;
+}
+
+
+.six, .seven, .eight, .nine, .ten{
+    padding: 10px;
+    font-size: 15px;
+    
+}
+
+.six a, .seven a, .eight a, .nine a, .ten a{
+    text-decoration: none;
+    color:black
+}
+
+.six a:hover, .seven a:hover, .eight a:hover, .nine a:hover, .ten a:hover{
+    color: snow;
+    text-decoration: none;
+    font-size: 15px;
+}
+
