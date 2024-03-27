@@ -206,11 +206,14 @@ h3{
 .navigations2{
     display: inline-block;
     padding-left: 50px;
+    width:400px;
+    height:400px;
 }
 
 .navigation3{
     display: inline-block;
-    display: inline-block;
+    width 400px;
+    height:400px;
 }
 
 
